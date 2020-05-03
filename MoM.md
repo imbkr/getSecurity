@@ -1,6 +1,6 @@
 # Minutes of Meeting
 
-May 02,2020
+## May 02,2020
 
 * **Money** - Discussed about investing in the company with 10k each. No conclusion as Karthik didn't have any money. Vijay said 8-10k is possible.
 * **Office** - we can get book appointments with distributors one at a time in bedford.
