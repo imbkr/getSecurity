@@ -13,5 +13,18 @@
 
 **Action Items**
 * Vijay will send the list of distributors.
-* Karthik will see if there are any other simple CRMS that we could use.
+* Karthik will see if there are any other simple CRMS that we could use. -  Didn't like any of the CRM's and decided to build a custom one.
 * Hemanth will look into the website and see if we could get some changes.
+
+## July, 01, 2020
+
+* Discussed about bestbuy marketplace oppurtunity.
+* Everyone agreed on getting MVP for the website to start promoting the website. MVP as follows
+  * get the kits, cameras along with data shheets updated in the website withh content(overview, More info, Details & Specs)
+  * update the getsecurity website with few more products from radiant as well.
+* Decided to start adding kits, dome cameras to start with in bestbuy along with cabling with higher prices to get some exposure.
+* Add the content to get security website at least 15 days before adding to bestbuy to get the ownership of content at google.
+
+**Action Items**
+* Karthik - Will get the content scraped for vijay to copy write for our products.
+* Vijay - copy write the content provided and add it to the website.
